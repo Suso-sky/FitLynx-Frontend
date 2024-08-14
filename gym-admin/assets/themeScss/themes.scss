@@ -1,6 +1,7 @@
 :root {
     --body-primary: #ffffff;
     --h1-title: #2a2439;
+    --module-text-color: #6b1313;
     ///sidenav colors
     --background-color-sidenav: #212570;
     --box-shadow-sidenav: 0.063rem 0 1.25rem 0 #8690a3;
@@ -35,11 +36,15 @@
     --tr-bg-color: #e3eeec;
     --title-table: #3b3b40;
     --dashboard-inputs-bg: rgb(216, 216, 216);
+    --register-button-text-color: #fff;
+    --hover-selector: #d9d9d9;
+    --selector-icon: #797979;
 }
 
 .dark-mode {
     --body-primary: #1d1b23;
     --h1-title: #464581;
+    --module-text-color: #3e4572;
     --card-text-color: #6968a1;
     --card-box-shadow: #151414;
     --border-bottom-card: #041227;
@@ -75,4 +80,7 @@
     --tr-bg-color: #1f2937;
     --title-table: #4f5f79;
     --dashboard-inputs-bg: rgb(24, 42, 63);
+    --register-button-text-color: #b7b9c0;
+    --hover-selector: #1f2937;
+    --selector-icon: #bababa;
 }
